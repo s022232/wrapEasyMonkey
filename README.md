@@ -61,7 +61,7 @@ It’s easy to test the android.
 
 4. 写测试脚本。
 如下是一个测试脚本例子(wrapEasyMonkey api 具体说明及介绍)。 当然例子也可以去wrapEasyMonkey里的例子文件夹找例子。
-
+```
 #! /usr/bin/env monkeyrunner
 '''
 Copyright (C) 2012  whoistester.com
@@ -114,7 +114,7 @@ wrapdevice.touchViewById('id/0x3',wrapdevice.DOWN_AND_UP) #touchViewById 可以�
 
 
 wrapdevice.type('test01') # 输入字符
-
+```
 
 5. 执行测试脚本。 打开dos命令窗口或者linux的shell terminal。 运行
 “monkeyrunner 脚本路径和名称”。 执行之前确信您已经正确安装了手机的驱动. 可以通过adb devices 进行查看.
