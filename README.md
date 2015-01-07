@@ -8,7 +8,7 @@ Api(libraries) based monkeyrunner , easy to build the android automation test sc
 3. 增加了一些比较便捷的函数， 降低了使用 monkeyDevice 和 easyMonkeyDevice 的复杂度。
 
 
-[wrapEasyMonkey 2.0 released]
+[wrapEasyMonkey ]
 
 new feature 新特性:
 1. don’t need set the env vars anymore
@@ -23,7 +23,7 @@ new feature 新特性:
 1. you have the android sdk installed.
 你需要android sdk 安装
 2. download the wrapEasyMonkey 2.0 from sourceforge 
-下载wrapeasymonkey 2.0 并放到正确的lib目录下
+下载wrapeasymonkey.zip 后缀名改为wrapeasymonkey.jar  并放到android sdk monkeyrunner里对应的lib目录下
 
 [Install the lib 安装lib:]
 
