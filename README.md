@@ -1,6 +1,10 @@
 # wrapEasyMonkey-
 Api(libraries) based monkeyrunner , easy to build the android automation test script.  Support identifing the ui element by Id or by text.
 
+more contents please visit my blog :  http://lihao.cf/category/my-work/wrapeasydevice/
+
+更多信息请访问我的博客 http://lihao.cf/category/my-work/wrapeasydevice/
+
 [purpose: ]
 
 1. 将monkeyDevice 与 easyMonkeyDevice统一封装到库
