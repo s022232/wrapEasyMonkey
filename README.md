@@ -1,4 +1,5 @@
 # wrapEasyMonkey-
+
 Api(libraries) based monkeyrunner , easy to build the android automation test script.  Support identifing the ui element by Id or by text.
 
 more contents please visit my blog :  http://lihao.cf/category/my-work/wrapeasydevice/
