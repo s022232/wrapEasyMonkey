@@ -1,7 +1,7 @@
 '''
 Copyright (C) 2012 whoistester
 Created on Sep ,2012
-@auther: admin@whoistester.com
+@auther: http://lihao.cf
 This file is the main apis sourcecode of the easy monkey wrapper
 '''
 
