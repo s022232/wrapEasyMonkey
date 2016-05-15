@@ -1,5 +1,9 @@
 # wrapEasyMonkey-
 
+代码已经不在更新，建议python编写android 自动化脚本， 可以参考 https://github.com/xiaocong/uiautomator。 
+或者通过apium python client。
+
+
 Api(libraries) based monkeyrunner , easy to build the android automation test script.  Support identifing the ui element by Id or by text.
 
 more contents please visit my blog :  http://lihao.cf/category/my-work/wrapeasydevice/
