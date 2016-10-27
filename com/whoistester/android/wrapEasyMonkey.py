@@ -29,7 +29,7 @@ from com.android.monkeyrunner import MonkeyRunner, MonkeyDevice
 from com.android.monkeyrunner.easy import EasyMonkeyDevice
 from com.android.monkeyrunner.easy import By
 from com.android.chimpchat.hierarchyviewer import HierarchyViewer
-from com.android.hierarchyviewerlib.device import ViewNode
+from com.android.hierarchyviewerlib.models import ViewNode
 from com.android.chimpchat.core import TouchPressType
 from testCaseManager import testCaseManager
 
